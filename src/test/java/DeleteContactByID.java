@@ -18,7 +18,8 @@ public class DeleteContactByID {
 
     @BeforeMethod
     public void addnewContactForDelete(){
-        
+        //add new contact
+
     }
 
     @Test
