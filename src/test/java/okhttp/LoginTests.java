@@ -1,3 +1,5 @@
+package okhttp;
+
 import com.google.gson.Gson;
 import dto.AuthDto;
 import dto.ErrorDto;
